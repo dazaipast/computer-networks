@@ -16,4 +16,5 @@
 | [lesson-13](https://github.com/dazaipast/computer-networks/tree/lesson-13) | NAT и доступ к веб-серверу |
 | [lesson-14](https://github.com/dazaipast/computer-networks/tree/lesson-14) | DNS-сервер и A-запись |
 | [lesson-15](https://github.com/dazaipast/computer-networks/tree/lesson-15) | Конспект по TCP и UDP |
+| [lesson-http](https://github.com/dazaipast/computer-networks/tree/lesson-http) | Разбор HTTP-запросов и ответов |
 | [individul_work_network](https://github.com/dazaipast/computer-networks/tree/individul_work_network) | Самостоятельная работа по основам сетей |
