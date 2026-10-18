@@ -17,4 +17,5 @@
 | [lesson-14](https://github.com/dazaipast/computer-networks/tree/lesson-14) | DNS-сервер и A-запись |
 | [lesson-15](https://github.com/dazaipast/computer-networks/tree/lesson-15) | Конспект по TCP и UDP |
 | [lesson-http](https://github.com/dazaipast/computer-networks/tree/lesson-http) | Разбор HTTP-запросов и ответов |
+| [lesson-ports](https://github.com/dazaipast/computer-networks/tree/lesson-ports) | Порты и флаги TCP в Wireshark |
 | [individul_work_network](https://github.com/dazaipast/computer-networks/tree/individul_work_network) | Самостоятельная работа по основам сетей |
