@@ -1,6 +1,8 @@
 # Компьютерные сети
 
-Домашние задания по курсу. Каждая работа лежит в своей ветке.
+Курс про то, как данные передаются между устройствами. Сначала это модели OSI и TCP/IP, виды связи и адресация IPv4. Дальше кадры и коммутация Ethernet, маршрутизация, а на практике разбор трафика, подсети и протоколы вроде DHCP, DNS, TCP, UDP и HTTP.
+
+Домашние задания лежат в отдельных ветках. Презентации собраны в ветке [theory](https://github.com/dazaipast/computer-networks/tree/theory).
 
 | Ветка | Задание |
 | --- | --- |
@@ -19,3 +21,4 @@
 | [lesson-http](https://github.com/dazaipast/computer-networks/tree/lesson-http) | Разбор HTTP-запросов и ответов |
 | [lesson-ports](https://github.com/dazaipast/computer-networks/tree/lesson-ports) | Порты и флаги TCP и UDP в Wireshark |
 | [individul_work_network](https://github.com/dazaipast/computer-networks/tree/individul_work_network) | Самостоятельная работа по основам сетей |
+| [theory](https://github.com/dazaipast/computer-networks/tree/theory) | Презентации: модели, Ethernet, IPv4, маршрутизация |
